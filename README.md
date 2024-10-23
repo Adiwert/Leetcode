@@ -1,0 +1,3 @@
+# Leetcode
+
+Welcome to my repository of LeetCode solutions, primarily written in C and Python. This collection showcases my problem-solving journey, where I tackle various algorithm and data structure challenges from LeetCode. I upload solutions periodically, focusing on quality and correctness rather than regular updates. Each solution is written with a focus on clarity and performance, demonstrating different approaches and optimization techniques. As I continue solving more problems, I'll keep adding solutions to this repository, providing a growing resource for anyone interested in C and Python implementations.
