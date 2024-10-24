@@ -1,11 +1,11 @@
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+#         self.val = val        # The value stored in the node
+#         self.left = left      # Reference to the left child node
+#         self.right = right    # Reference to the right child node
 class Solution(object):
-    def flipEquiv(self, root1, root2):
+    def flipEquiv(self, root1, root2):      # 
         """
         :type root1: Optional[TreeNode]
         :type root2: Optional[TreeNode]
